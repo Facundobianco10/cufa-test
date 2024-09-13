@@ -1,6 +1,5 @@
 ## 1.Primero correr pip install openai y pip install streamlit en la terminal
-pip install streamlit
-pip install openai
+
 ## 2. Conectarse a la API de Chatgpt guardando este archivo
 
 import streamlit as st
