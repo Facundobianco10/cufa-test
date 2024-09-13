@@ -4,8 +4,8 @@
 
 import streamlit as st
 from openai import OpenAI
-
-client = OpenAI(api_key="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")
+##
+client = OpenAI(api_key="sk-DJospjHgWbZObxtAE6jrMQDaslkt7g0SyfuF-NwZSqT3BlbkFJ9aD6fKWZ2b16-NfIQdjLIKi1Aqx9MGcrymo8oSiUgA")
 
 # Configura tu API key de OpenAI
 
